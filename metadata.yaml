@@ -1,0 +1,30 @@
+_repo: The-Comrade-in-White_9384
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Black, Hugh
+    birthdate: 1868
+    gutenberg_agent_id: '9573'
+    url: http://www.gutenberg.org/2009/agents/9573
+creator:
+  author:
+    agent_name: Leathem, W. H. (William Harvey)
+    alias: Leathem, William Harvey
+    gutenberg_agent_id: '3034'
+    url: http://www.gutenberg.org/2009/agents/3034
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: The Comrade in White
+url: http://www.gutenberg.org/ebooks/9384
